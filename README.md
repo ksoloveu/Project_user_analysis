@@ -1,4 +1,4 @@
-# Компексный проект анализа пользователей
+# Комплексный проект анализа пользователей
 
 ### Стек:
 Python, Pandas, NumPy, Plotly, Seaborn, Matplotlib, bootstrap, SQL, pandahouse, A\B-тестирование.
